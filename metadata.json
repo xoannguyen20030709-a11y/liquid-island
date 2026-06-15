@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Island Max",
+  "description": "Full edition dynamic island clone with Galaxy AI / Siri integration, multitasking widgets, and deep customization. Runs with high thinking capabilities.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
